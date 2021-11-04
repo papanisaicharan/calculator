@@ -10,7 +10,7 @@ export default class Display extends React.Component {
 
   render() {
     return (
-      <div className="component-display">
+      <div className="component-display component-bg-change">
         <div>{this.props.value}</div>
       </div>
     );
