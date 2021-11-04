@@ -3,19 +3,4 @@
   flex-direction: column;
   flex-wrap: wrap;
   height: 100%;
-  background-color: white;
-}
-
-.panel-and-history{
-  text-align: right;
-  font-size: 20px;
-  height: 20%;
-  overflow: scroll;
-  padding-right: 20px;
-}
-
-.heading{
-  font-size: 20px;
-  padding-right: 20px;
-  text-align: center;
 }
